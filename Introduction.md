@@ -2,6 +2,10 @@
 
 ### Why mining?
 
+* Unique
+* Once mined, metadata can be fetched.
+* Provide links between identifiers
+
 ### What are identifiers?
 
 * Accession numbers
