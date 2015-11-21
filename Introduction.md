@@ -18,7 +18,15 @@
 
 * An information extraction problem
 
+### Algorithm
+
+1. pattern matching
+2. context analysis
+3. resolving
+
 ### Europe PMC platform for mining identifiers
+
+### A map of identifiers
 
 ### Resources
 
