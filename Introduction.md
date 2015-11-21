@@ -1,10 +1,10 @@
 # Mining Identifiers
 
-### Why mining?
+### Why mining identifiers?
 
-* Unique
+* They are almost unique.
 * Once mined, metadata can be fetched.
-* Provide links between identifiers
+* Can provide links between identifiers
 
 ### What are identifiers?
 
