@@ -1,10 +1,19 @@
-# Mining Identifiers
+# Mining Names and Identifiers
+
+## Mining names
+
+### Why mining names?
+
+### What are names?
+
+## Mining Identifiers
 
 ### Why mining identifiers?
 
 * They are almost unique.
-* Once mined, metadata can be fetched.
+* Once mined, metadata can be combined.
 * Can provide links between identifiers
+* vs. mining names
 
 ### What are identifiers?
 
