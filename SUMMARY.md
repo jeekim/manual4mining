@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-   * Intro
+   * [Intro](Introduction.md)
 * UseCases
    * [UseCases](UseCases.md)
 
