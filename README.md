@@ -1,3 +1,1 @@
 # Mining Names and Identifiers
-
-# ...
