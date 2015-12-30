@@ -1,3 +1,3 @@
-# manual4mining
+# Mining Names and Identifiers
 
-# ...
+test
